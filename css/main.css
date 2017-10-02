@@ -12,7 +12,7 @@ h2 {
   color: #5d8432;
 }
 
-figcaption {
+.Hadro {
   font-style: italic;
   text-align: center;
   font-size: 1.5rem;
@@ -45,7 +45,7 @@ a:hover {
   color: #b42885;
 }
 
-p {
+figcaption {
   font-style: italic;
   text-align: center;
   font-size: 1.2rem;
