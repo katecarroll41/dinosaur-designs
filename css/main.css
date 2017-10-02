@@ -21,7 +21,7 @@ a:link {
   color: #793284;
 }
 
-a:hover {
+:hover {
   color: #b42885;
 }
 
@@ -31,4 +31,8 @@ h1, h2, h3 {
 
 li {
   font-family: "Patua One", cursive;
+}
+
+ul, ol {
+  list-style-type: none;
 }
