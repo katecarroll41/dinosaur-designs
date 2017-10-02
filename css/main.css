@@ -15,6 +15,7 @@ h2 {
 figcaption {
   font-style: italic;
   text-align: center;
+  font-size: 1.5;
 }
 
 a:link {
@@ -42,4 +43,10 @@ ul, ol {
 
 a:hover {
   color: #b42885;
+}
+
+p {
+  font-style: italic;
+  text-align: center;
+  font-size: 0.8rem;
 }
