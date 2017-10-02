@@ -1,6 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 img {
@@ -14,11 +15,11 @@ h2 {
 figcaption {
   font-style: italic;
   text-align: center;
-  line-height: 1.5;
 }
 
 a:link {
   color: #793284;
+  text-decoration: none;
 }
 
 ol:hover {
@@ -31,6 +32,8 @@ h1, h2, h3 {
 
 li {
   font-family: "Patua One", cursive;
+  font-size: 1.125rem;
+  font-weight: bold;
 }
 
 ul, ol {
