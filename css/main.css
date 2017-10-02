@@ -36,3 +36,7 @@ li {
 ul, ol {
   list-style-type: none;
 }
+
+a:hover {
+  color: #b42885;
+}
