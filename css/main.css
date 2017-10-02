@@ -1,0 +1,30 @@
+html {
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+}
+
+img {
+  width: 100%;
+}
+
+h2 {
+  color: #5d8432;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  line-height: 1.5;
+}
+
+a:link {
+  color: #793284;
+}
+
+a:hover {
+  color: #b42885;
+}
+
+h1, h2, h3 {
+  font-family: 'Patua One', cursive;
+}
