@@ -21,7 +21,7 @@ a:link {
   color: #793284;
 }
 
-:hover {
+a:hover {
   color: #b42885;
 }
 
