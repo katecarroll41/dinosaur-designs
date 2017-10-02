@@ -15,7 +15,7 @@ h2 {
 .hadro {
   font-style: italic;
   text-align: center;
-  font-size: 1.012rem;
+  font-size: 1.025rem;
 }
 
 a:link {
@@ -48,5 +48,5 @@ a:hover {
 figcaption {
   font-style: italic;
   text-align: center;
-  font-size: .5rem;
+  font-size: .8rem;
 }
